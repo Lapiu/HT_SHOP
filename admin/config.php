@@ -1,25 +1,25 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://localhost/upload/admin/');
-define('HTTP_CATALOG', 'http://localhost/upload/');
+define('HTTP_SERVER', 'http://localhost/HT_SHOP/admin/');
+define('HTTP_CATALOG', 'http://localhost/HT_SHOP/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://localhost/upload/admin/');
-define('HTTPS_CATALOG', 'http://localhost/upload/');
+define('HTTPS_SERVER', 'http://localhost/HT_SHOP/admin/');
+define('HTTPS_CATALOG', 'http://localhost/HT_SHOP/');
 
 // DIR
-define('DIR_APPLICATION', 'D:/xampp/htdocs/upload/admin/');
-define('DIR_SYSTEM', 'D:/xampp/htdocs/upload/system/');
-define('DIR_LANGUAGE', 'D:/xampp/htdocs/upload/admin/language/');
-define('DIR_TEMPLATE', 'D:/xampp/htdocs/upload/admin/view/template/');
-define('DIR_CONFIG', 'D:/xampp/htdocs/upload/system/config/');
-define('DIR_IMAGE', 'D:/xampp/htdocs/upload/image/');
-define('DIR_CACHE', 'D:/xampp/htdocs/upload/system/cache/');
-define('DIR_DOWNLOAD', 'D:/xampp/htdocs/upload/system/download/');
-define('DIR_UPLOAD', 'D:/xampp/htdocs/upload/system/upload/');
-define('DIR_LOGS', 'D:/xampp/htdocs/upload/system/logs/');
-define('DIR_MODIFICATION', 'D:/xampp/htdocs/upload/system/modification/');
-define('DIR_CATALOG', 'D:/xampp/htdocs/upload/catalog/');
+define('DIR_APPLICATION', 'D:/xampp/htdocs/HT_SHOP/admin/');
+define('DIR_SYSTEM', 'D:/xampp/htdocs/HT_SHOP/system/');
+define('DIR_LANGUAGE', 'D:/xampp/htdocs/HT_SHOP/admin/language/');
+define('DIR_TEMPLATE', 'D:/xampp/htdocs/HT_SHOP/admin/view/template/');
+define('DIR_CONFIG', 'D:/xampp/htdocs/HT_SHOP/system/config/');
+define('DIR_IMAGE', 'D:/xampp/htdocs/HT_SHOP/image/');
+define('DIR_CACHE', 'D:/xampp/htdocs/HT_SHOP/system/cache/');
+define('DIR_DOWNLOAD', 'D:/xampp/htdocs/HT_SHOP/system/download/');
+define('DIR_UPLOAD', 'D:/xampp/htdocs/HT_SHOP/system/HT_SHOP/');
+define('DIR_LOGS', 'D:/xampp/htdocs/HT_SHOP/system/logs/');
+define('DIR_MODIFICATION', 'D:/xampp/htdocs/HT_SHOP/system/modification/');
+define('DIR_CATALOG', 'D:/xampp/htdocs/HT_SHOP/catalog/');
 
 // DB
 define('DB_DRIVER', 'mysqli');
